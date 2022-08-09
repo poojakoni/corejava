@@ -22,7 +22,9 @@ public class Employee {
 
 	public void Display() {
 		// TODO Auto-generated method stub
-		
+		System.out.println(Name);
+		System.out.println(EmpId);
+		System.out.println(Department);
 	}}
 	
 	

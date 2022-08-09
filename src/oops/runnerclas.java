@@ -14,6 +14,8 @@ public class runnerclas {
 	
 	Employee E2 = new Employee("Jack", 1001, "Finance");
 	E2.Display();
+	
+	//inheritance
 
 	bank B = new bank();
 	
